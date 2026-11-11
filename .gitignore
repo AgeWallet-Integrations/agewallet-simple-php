@@ -10,3 +10,8 @@ Thumbs.db
 # Local config
 *.local.php
 .env
+
+# Test dependencies and output (composer install, phpunit)
+/vendor/
+.phpunit.result.cache
+coverage.txt

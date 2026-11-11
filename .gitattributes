@@ -1,0 +1,7 @@
+# Left out of GitHub's zip and tar downloads, which then hold the client, README and .gitignore as before
+/.github export-ignore
+/tests export-ignore
+/.gitattributes export-ignore
+/composer.json export-ignore
+/composer.lock export-ignore
+/phpunit.xml.dist export-ignore
